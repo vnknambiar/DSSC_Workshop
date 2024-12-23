@@ -6,7 +6,7 @@
 ## File Description:
 
 #### ML Exercise 1: Predicting Housing prices - Regression
-#### ML Exercise 2: 
+#### ML Exercise 2: Loan Approval - Classification
 
 ### ----------------------------------------------------
 
